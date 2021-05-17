@@ -9,7 +9,7 @@ this is all about this repo
 
 bits of code `x+y=5`
 
-```
+```python
 import numpy as np
 
 ```
