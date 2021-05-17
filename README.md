@@ -8,3 +8,8 @@ this is all about this repo
 [any link u can use](https://github.com/devikavarma/github_tut)
 
 bits of code `x+y=5`
+
+```
+import numpy as np
+
+```
