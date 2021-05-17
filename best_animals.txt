@@ -1,7 +1,7 @@
 the best animals
 
 -cat
--dog
+-puppy
 -whale
 -monkey
 -sheep
