@@ -1,2 +1,8 @@
-#ignore following
+# ignore following (the # is commenting the file just as in python
 random.txt
+
+#anything with .nc will be ignored
+*.nc
+
+#anything with "ran" in the file name will be ignored
+*ran*
