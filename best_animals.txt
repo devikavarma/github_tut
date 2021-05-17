@@ -5,3 +5,5 @@ the best animals
 -whale
 -monkey
 -sheep
+
+-elephant
