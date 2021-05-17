@@ -7,3 +7,4 @@ the best animals
 -sheep
 
 -elephant
+-lion
