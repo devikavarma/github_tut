@@ -1,4 +1,4 @@
-# github tutorialss
+# github tutorials
 this is all about this repo
 
 ## files
@@ -13,3 +13,4 @@ bits of code `x+y=5`
 import numpy as np
 
 ```
+### Emna was here :p
